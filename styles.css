@@ -1,0 +1,96 @@
+body{
+   background-image: url("https://vignette.wikia.nocookie.net/cartoonnetwork/images/b/bc/Episode_card_background.png/revision/latest?cb=20180630010134&path-prefix=vi");
+   background-repeat: no-repeat;
+   background-attachment:fixed;
+   background-size: cover;
+   margin: 0 auto;
+   background-size: 1280px 720px;
+}
+.box{
+    font-weight:900;
+    text-shadow: 0px 0px 10px black;
+    margin: 0 auto;
+    text-align:center;
+    border:solid;
+    color:yellow;
+    border-width:4px;
+    width:600px;
+    height:200px;
+    background-image: url("https://media0.giphy.com/media/jqVviWHe31S8g/giphy.gif?cid=3640f6095c8123f27543676e32538524");
+    background-repeat: no-repeat;
+    background-size: 600px 240px;
+    }
+    
+body {
+    
+    margin: 0 auto;
+    background-size: 2000px 1000px;
+    }
+    
+.inputBoxes{
+    text-align:center;
+    }
+    
+input{
+    padding:1px 60px;
+    font-size:20px;
+    text-align:center;
+    margin:0 auto;
+    
+    }
+
+h2{
+    font-weight:900;
+    text-shadow: 0px 0px 10px #000;
+    color:yellow;
+    font-size:20px;
+    }
+    
+h3{
+    font-weight:900;
+    text-shadow: 0px 0px 10px black;
+    color:yellow;
+    font-size:20px;
+    }
+
+h4{
+    font-weight:900;
+    text-shadow: 0px 0px 3px #000;
+    color:yellow;
+    font-size:20px;
+    }
+    
+.anais{
+    width: 400px;
+    height: auto;
+    }   
+    
+.result{
+    width: 400px;
+    height: auto;
+    text-align:center;
+    margin:0 auto;   }
+    
+.darwin{
+    width: 300px;
+    height: auto;
+    }
+.nicole{
+    width:200px;
+    height:auto;
+    }    
+    
+.richard{
+    width:300px;
+    height:auto;
+    }
+    
+.principalBrown{
+    width:200px;
+    height:auto;
+    }
+    
+.bananaJoe{
+    width:200px;
+    height:auto;
+    }
